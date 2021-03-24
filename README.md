@@ -2,7 +2,7 @@
 
 🇧🇷 Born in Bahia, Brazil <br>
 🇧🇷 Living in Brasília, Brazil <br>
-❤️ i love programming and science 🔭 <br>
+❤️ I love programming and science 🔭 <br>
 🧑🏾‍💻 Working as a software developer intern <br>
 
 ### About me
@@ -17,7 +17,7 @@ I'm a student of systems analysis and development and currently doing an interns
 • Development of functionalities in web / mobile applications
 
 ### What am I currently doing
-I'm currently participating in BootCamp Everis Kotlin Developer where I'm learning about Android application development using Kotlin
+I'm currently participating in BootCamp SPTech Development Fullstack where I'm learning about software development concepts for creating digital solutions, front-end development in ReactJS and back-end in Node
 
 ### Find me elsewhere 🌎
 

@@ -17,9 +17,8 @@ I'm a student of systems analysis and development and currently doing an interns
 • Development of functionalities in web / mobile applications
 
 ### What am I currently doing
-I'm currently participating in BootCamp SPTech Development Fullstack where I'm learning about software development concepts for creating digital solutions, front-end development in ReactJS and back-end in Node
+I'm currently i'm learning about software development concepts for creating digital solutions, Front-End development with ReactJS and VueJS and Back-End with Node and Ruby
 
-### Find me elsewhere 🌎
+###Let's get to know each other better 🌎
 
-📄 [GitHubPage](https://robertojr2001.github.io/) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/roberto--jr/) <br>

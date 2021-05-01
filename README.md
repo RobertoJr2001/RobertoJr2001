@@ -19,6 +19,6 @@ I'm a student of systems analysis and development and currently doing an interns
 ### What am I currently doing
 I'm currently i'm learning about software development concepts for creating digital solutions, Front-End development with ReactJS and VueJS and Back-End with Node and Ruby
 
-###Let's get to know each other better 🌎
+### Let's get to know each other better 🌎
 
 💼 [LinkedIn](https://www.linkedin.com/in/roberto--jr/) <br>

@@ -17,7 +17,7 @@ I'm a student of systems analysis and development and currently doing an interns
 • Development of functionalities in web / mobile applications
 
 ### What am I currently doing
-I'm currently i'm learning about software development concepts for creating digital solutions, Front-End development with ReactJS and VueJS and Back-End with Node and Ruby
+I'm currently i'm learning about software development concepts for creating digital solutions, Front-End development with ReactJS and VueJS and Back-End with Node, Ruby on Rails and Spring.
 
 ### Let's get to know each other better 🌎
 

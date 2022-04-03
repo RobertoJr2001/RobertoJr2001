@@ -3,27 +3,23 @@
 🇧🇷 Born in Bahia, Brazil <br>
 🇧🇷 Living in Brasília, Brazil <br>
 ❤️ I love programming and science 🔭 <br>
-🧑🏾‍💻 Working as a software developer intern <br>
+🧑🏾‍💻 Working as a software developer <br>
 
 ### About me
-I am fascinated by innovation and curious by nature. I am always in search of knowledge so that I can expand my horizons and manage to solve several problems. 
+I am fascinated by innovation and curious by nature, coffee lover and science/technology enthusiast. I am always looking to deepen and study new skills to solve problems that arise. I am always willing to help and learn. 
 <br> 
-I'm a student of systems analysis and development and currently doing an internship at Synapse Brasil.
+
 
 ### What I do in my work
-I work on the Synapse Brasil development team using tools such as JavaScript, React, Node, Vue, PHP, Laravel, Flutter, among others, performing activities such as:
+I work in the development of Web / Mobile applications, working on systems such as Cirurgia Segura for financial protection for surgeries, covering or reimbursing possible extra costs resulting from complications and intercurrences, SisAnadem (Financial Control), among others, working with technologies such as JavaScript, TypeScript, JS, Angular, Vue JS, Node JS, Adonis JS, PHP, Laravel, Flutter, among others, performing activities such as:
 
 • Analysis of software solutions with team members
 
 • Technical support to customers
 
-• Development of solutions with superiors
+• Development of functionalities in
+web/mobile applications using technologies such as JavaScript, TypeScript, React, Node, Vue, Angular, PHP, Laravel and Flutter.
 
-• Development of features in
-web / mobile applications
-
-### What am I currently doing
-I'm currently ilearning about software development concepts for creating digital solutions, Front-End development with ReactJS and VueJS and Back-End with Node and Laravel.
 
 ### Let's get to know each other better 🌎
 

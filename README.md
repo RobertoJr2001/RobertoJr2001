@@ -6,9 +6,11 @@
 🧑🏾‍💻 Working as a software developer <br>
 
 ### About me
-Hi! My name is Roberto Guimarães, I'm a Full Stack developer, I've worked on systems such as Cirurgia Segura, SisAnadem (Financial Control), Anadem Online application, among others, developing functionalities such as generating and signing electronic contracts, microservice for sending emails and performing maintenance of systems using technologies such as JavaScript, TypeScript, Vue JS, React.JS, Node JS, Adonis JS, PHP, Laravel, Flutter, among others.
+Hello! My name is Roberto Guimarães, I am a Full Stack developer, and I develop solutions to evolve products aimed at the customer experience, facilitating complex tasks and reducing costs and risks related to the product.
 
-I am fascinated by innovation and curious by nature, coffee lover and science and technology enthusiast. I'm always looking to deepen and study new skills to solve problems that arise. 
+I have experience working on systems such as Cirurgia Segura, SisAnadem (Financial Control), and Anadem Online, among others. I perform maintenance and development of solutions such as generation and electronic signature of contracts, integration with payment gateways for generation and collection of monthly payments, using technologies such as JavaScript, TypeScript, Vue.js, React.JS, Node.js, Adonis JS, PHP, Laravel, Flutter, among others.
+
+I am fascinated by innovation and curious by nature. I am a coffee lover and a science and technology enthusiast, always looking to deepen and study new skills to solve problems that arise. 
 <br> 
 
 

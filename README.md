@@ -1,28 +1,34 @@
-### Hi, I'm Roberto! 👋
+# Olá, sou Roberto Guimarães 👋
 
-🇧🇷 Born in Bahia, Brazil <br>
-🇧🇷 Living in Brasília, Brazil <br>
-❤️ I love programming and science 🔭 <br>
-🧑🏾‍💻 Working as a software developer <br>
+Desenvolvedor Full Stack com +5 anos de experiência em sistemas web, 
+mobile e integrações complexas. Atuo com PHP/Laravel, Vue.js, React, 
+Flutter e integrações com SAP ERP, gateways de pagamento e assinatura eletrônica.
 
-### About me
-Hello! My name is Roberto Guimarães, I am a Full Stack developer, and I develop solutions to evolve products aimed at the customer experience, facilitating complex tasks and reducing costs and risks related to the product.
-
-I have experience working on systems such as Cirurgia Segura, SisAnadem (Financial Control), and Anadem Online, among others. I perform maintenance and development of solutions such as generation and electronic signature of contracts, integration with payment gateways for generation and collection of monthly payments, using technologies such as JavaScript, TypeScript, Vue.js, React.JS, Node.js, Adonis JS, PHP, Laravel, Flutter, among others.
-
-I am fascinated by innovation and curious by nature. I am a coffee lover and a science and technology enthusiast, always looking to deepen and study new skills to solve problems that arise. 
-<br> 
-
-
-### What I do in my work
-- Development of contract generation and electronic signature via Clicksign API.
-- Developing invoice generation using payment gateways.
-- Back-End Development in PHP, Laravel, Node, TypeScript, Adonis, Express.
-- Front-End Development in JavaScript, TypeScript, Vue.js, React.
-- Mobile development in Flutter.
-- Contact with MYSQL database.
-- Git / GitHub.
-
-### Let's get to know each other better 🌎
-
+📍 Brasília, DF  
 💼 [LinkedIn](https://www.linkedin.com/in/roberto--jr/) <br>
+
+## O que eu faço
+
+- 🔧 Back-end: APIs RESTful com PHP/Laravel, Node.js e AdonisJS
+- 🎨 Front-end: SPAs com Vue.js e React.js
+- 📱 Mobile: apps multiplataforma com Flutter (Android e iOS)
+- 🔗 Integrações: SAP ERP via Service Layer, Asaas, IUGU, assinatura eletrônica
+- 🐳 Infra: Docker, Laravel Forge, servidores Linux
+- 🗄️ Banco de dados: MySQL e PostgreSQL
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+## Vamos conversar?
+
+Aberto a oportunidades remotas como Desenvolvedor Full Stack.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/roberto--jr)
